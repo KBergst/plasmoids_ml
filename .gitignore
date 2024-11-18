@@ -125,3 +125,4 @@ scratchwork/data/
 scratchwork/pydata/
 scratchwork/outs/
 scratchwork/out_poisson/
+mms_data/smith_dataset/*.h5
